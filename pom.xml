@@ -43,7 +43,7 @@
 
     <properties>
          <!-- Versions of JBoss projects -->
-        <version.org.infinispan>5.2.4.Final</version.org.infinispan>
+        <version.org.infinispan>6.0.0.Alpha4</version.org.infinispan>
         <version.org.jboss.spec.jboss.javaee.6.0>3.0.2.Final</version.org.jboss.spec.jboss.javaee.6.0>
          
          <!-- Repository Deployment URLs -->
